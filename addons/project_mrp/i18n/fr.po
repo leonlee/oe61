@@ -7,15 +7,14 @@ msgstr ""
 "Project-Id-Version: OpenERP Server 5.0.4\n"
 "Report-Msgid-Bugs-To: support@openerp.com\n"
 "POT-Creation-Date: 2012-02-08 00:37+0000\n"
-"PO-Revision-Date: 2012-02-17 09:10+0000\n"
-"Last-Translator: Maxime Chambreuil (http://www.savoirfairelinux.com) "
-"<maxime.chambreuil@savoirfairelinux.com>\n"
+"PO-Revision-Date: 2012-03-12 20:37+0000\n"
+"Last-Translator: t.o <Unknown>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2012-02-18 06:59+0000\n"
-"X-Generator: Launchpad (build 14814)\n"
+"X-Launchpad-Export-Date: 2012-03-13 05:34+0000\n"
+"X-Generator: Launchpad (build 14933)\n"
 
 #. module: project_mrp
 #: sql_constraint:sale.order:0
@@ -35,12 +34,12 @@ msgstr "Tâche d'approvisionnement"
 #. module: project_mrp
 #: model:ir.model,name:project_mrp.model_sale_order
 msgid "Sales Order"
-msgstr ""
+msgstr "Commande client"
 
 #. module: project_mrp
 #: field:procurement.order,sale_line_id:0
 msgid "Sale order line"
-msgstr ""
+msgstr "Ligne de commande client"
 
 #. module: project_mrp
 #: model:process.transition,note:project_mrp.process_transition_createtask0
